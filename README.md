@@ -7,8 +7,6 @@ Este projeto mostra uso do PageFactory com IntelliJ e JDK 8, com técnicas vista
 
 Visite o meu canal voltado a tecnologia da Informação: [Gotas de Tecnologia](https://www.youtube.com/channel/UCv68KoK1bo2R44fGmcT1G2g)
 
-![Teste](https://github.com/evertonulisystem/assets/blob/main/Tela01.PNG) 
-
 # Features implementadas 
 * Hooks
 * Base 
@@ -16,7 +14,7 @@ Visite o meu canal voltado a tecnologia da Informação: [Gotas de Tecnologia](h
 * PageObjects
 
 # Competências adquiridas
-* Entendimento do funcionamento de Testes automatizados com PageObjects
+* Entendimento do funcionamento de Testes automatizados com PageFactory
 
 # Tecnologias utilizadas
 - Java JDK8
@@ -37,4 +35,8 @@ Amigos, inscritos, visitante em geral.
 
 Se foi útil deixe uma STAR.
 
+# Conexões comigo
+<a href="https://twitter.com/evertonui"> <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />  </a>&ensp;
+<a href="https://www.linkedin.com/in/evertonulisystem/"> <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> </a>&ensp;
+<a href="https://www.instagram.com/gotasdetecnologia/"> <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> </a>
 Obrigado
